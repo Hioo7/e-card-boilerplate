@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.0//EN
+N: Raj KR; Rohan;;;
+FN: Rohan Raj KR
+TEL;type=CELL;type=VOICE;type=pref:9035891089
+TEL;type=CELL;type=VOICE:9035891089
+TEL;type=CELL;type=VOICE:9035891089
+END:VCARD
